@@ -2,32 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98b74bf3-3947-4fbf-bb70-180aa880d705" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DatePicker/DatePicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DatePicker/DatePicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HomeBanner/Banner.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HomeBanner/Banner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/background.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/banner_image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchResult/Result.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchResult/Result.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/SearchPage/Search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/SearchPage/Search.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +57,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Salman\Documents\Github\react-airbnb-clone\src\components" />
       <recent name="C:\Users\Salman\Documents\Github\react-airbnb-clone\src\images" />
     </key>
   </component>
@@ -88,18 +71,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598723850083</updated>
-      <workItem from="1598723853980" duration="11521000" />
+      <workItem from="1598723853980" duration="12779000" />
     </task>
+    <task id="LOCAL-00001" summary="Completed homepage">
+      <created>1598740099425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598740099425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed homepage" />
   </component>
   <component name="WindowStateProjectService">
     <state x="210" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598724502017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="210" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598724502017" />
+    <state x="69" y="119" key="CommitChangelistDialog2" timestamp="1598740098471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="69" y="119" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598740098471" />
     <state x="335" y="417" key="Github.ShareDialog" timestamp="1598725036534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -108,5 +107,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="166" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598725706812" />
+    <state x="87" y="256" key="Vcs.Push.Dialog.v2" timestamp="1598740111623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="87" y="256" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598740111622" />
   </component>
 </project>
